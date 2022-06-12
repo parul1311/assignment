@@ -1,0 +1,37 @@
+
+  .logo-image{
+    width: 60px;
+    height: 50px;
+    margin-left: 2rem;
+  }
+  .image-sm{
+    width: 70px;
+    height: 60px;
+  }
+  footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+  }
+  .section-body{
+    margin-bottom:3rem;
+  }
+  .hero {
+    height:50vh;
+    /* background: #000 url(https://image.freepik.com/free-vector/gradient-geometric-shape-background_78532-307.jpg) center center no-repeat; */
+    background: rgb(2,0,36);
+    background: linear-gradient(231deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 66%, rgba(0,212,255,1) 100%);
+    background-size: cover;
+    position: relative;
+  }
+  .hero-text {
+        color:#fff;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: -webkit-fill-available;
+  }
+  .form-group{
+    margin-bottom:1rem;
+  }
